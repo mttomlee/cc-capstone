@@ -1,2 +1,2 @@
-# cc-capstone
-Capstone Project for my study in Centennial College. Intrution detection using machine learning models.
+# Intrution detection using machine learning models
+Capstone Project for my study in Centennial College. Course code: CBER710
