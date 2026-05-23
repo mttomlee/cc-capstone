@@ -16,3 +16,4 @@ $$
 z = \frac{x-u}{s}
 $$
 
+By ensuring that each feature has a comparable magnitude, this transformation makes it simpler for machine learning models to learn from the data. This is frequently employed as a preprocessing step before training models which are sensitive to the size of the input features, such as K-Nearest Neighbors (KNN) and Support Vector Machines (SVM).
